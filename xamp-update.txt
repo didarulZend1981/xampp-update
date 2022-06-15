@@ -1,0 +1,20 @@
+1.mysql dataBacup
+2.htdocs copy
+3.Here are the steps to take to download all of the databases at once:
+
+		1.From the main phpMyAdmin page select Export.
+		2.Select the Custom export method.
+		3.In the Databases section, 
+			hold down Ctrl and select all of the databases you wish to export being careful not to select the database named phpmyadmin.
+		4.Scroll to the bottom of the page and click Go.
+		5.Wait for the SQL file to be downloaded to your computer.
+4.php/php config copy
+	php config --
+		1.memory_limit=512M
+		2.post_max_size=300M
+		3.upload_max_filesize=300M
+		4.max_execution_time=120
+5.Import All database
+
+
+
